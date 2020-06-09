@@ -1,0 +1,34 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+body{
+  background-color: azure;
+}
+
+.header{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+ 
+}
+
+.header h1{
+  text-align: center;
+  padding-bottom: 50px;
+  padding-left: 1000px;
+  padding-right: 1000px;
+
+}
+
+p{
+  text-align: center;
+}
+
+.house{
+  justify-content: flex-start;
+}
